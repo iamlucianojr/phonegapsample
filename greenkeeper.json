@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "plugins/org.apache.cordova.vibration/package.json"
+      ]
+    }
+  }
+}
